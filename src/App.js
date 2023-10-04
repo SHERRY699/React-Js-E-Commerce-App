@@ -1,5 +1,4 @@
 import Navbar from './components/Navbar';
-import Aside from './components/Aside'
 import Products from './components/Products';
 import { useState } from 'react';
 import products from './data/Data'
