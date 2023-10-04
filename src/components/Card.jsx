@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillStar } from "react-icons/ai";
-import data from "../data/Data";
+
 
 function Card({ img, title, star, reviews, prevPrice, newPrice}) {
   return (

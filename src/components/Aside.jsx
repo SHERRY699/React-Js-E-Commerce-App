@@ -2,7 +2,7 @@ import React from "react";
 import Category from "./Category";
 import Price from "./Price";
 import Colors from "./Colors";
-import Card from "./Card";
+
 
 function Aside({handleChange}) {
   return (
